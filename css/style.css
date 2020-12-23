@@ -351,7 +351,7 @@
 
 body {
   font-family: Arial, Helvetica, Sans-serif;
-  background-color: #d3e7e4;
+  background-color: #eeecf3;
 }
 
 img {
@@ -384,7 +384,7 @@ img {
   font-weight: bold;
   font-style: normal;
   font-size: 48px;
-  margin: 32px 0;
+  margin: 32px 24px;
   color: #674ea7;
 }
 

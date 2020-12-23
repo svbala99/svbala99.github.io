@@ -378,6 +378,9 @@ img {
   left: 0;
   display: block;
 }
+.circle {
+  font-size: 24px;
+}
 
 .title h1 {
   font-family: "Dancing Script", cursive;

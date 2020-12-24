@@ -408,6 +408,9 @@ img {
   color: #674ea7;
   margin: 16px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .title h3 {

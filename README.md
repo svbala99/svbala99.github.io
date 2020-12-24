@@ -34,6 +34,28 @@ const weddingVenue = new Location("Jayasakthi Mahal, Villupuram");
 <br><sup><i>With warm regards,<br>
 **Bala**<i></sup><br>
 
-[![GithubFollow @svbala99](https://img.shields.io/github/last-commit/svbala99/svbala99.github.io?style=for-the-badge)](https://github.com/svbala99/)
+[![GithubFollow @svbala99](https://img.shields.io/github/last-commit/svbala99/svbala99.github.io?)](https://github.com/svbala99/)
 
-[![GithubFollow @svbala99](https://img.shields.io/github/license/svbala99/svbala99.github.io?color=blue&style=for-the-badge)](https://github.com/svbala99/)
+[![GithubFollow @svbala99](https://img.shields.io/github/license/svbala99/svbala99.github.io?color=blue)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/languages/count/svbala99/svbala99.github.io?color=orange)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/languages/top/svbala99/svbala99.github.io?color=blueviolet)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/search/svbala99/svbala99.github.io/master?color=lightgrey)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/languages/code-size/svbala99/svbala99.github.io?color=pink)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/repo-size/svbala99/svbala99.github.io)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/issues/svbala99/svbala99.github.io?color=%2362DBAE%20)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/followers/svbala99?style=social)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/commit-activity/m/svbala99/svbala99.github.io?color=%23DB62B2%20)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/contributors/svbala99/svbala99.github.io)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/date/1608681600)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/deployments/svbala99/svbala99.github.io/github-pages)](https://github.com/svbala99/)

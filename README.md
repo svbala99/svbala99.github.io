@@ -33,4 +33,7 @@ const weddingVenue = new Location("Jayasakthi Mahal, Villupuram");
 
 <br><sup><i>With warm regards,<br>
 **Bala**<i></sup><br>
+
 [![GithubFollow @svbala99](https://img.shields.io/github/last-commit/svbala99/svbala99.github.io?style=for-the-badge)](https://github.com/svbala99/)
+
+[![GithubFollow @svbala99](https://img.shields.io/github/license/svbala99/svbala99.github.io?color=blue&style=for-the-badge)](https://github.com/svbala99/)
